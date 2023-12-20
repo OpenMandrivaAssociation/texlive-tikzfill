@@ -1,6 +1,6 @@
 Name:		texlive-tikzfill
-Version:	63947
-Release:	2
+Version:	67847
+Release:	1
 Summary:	TikZ libraries for filling with images and patterns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzfill
