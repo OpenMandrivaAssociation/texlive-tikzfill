@@ -3,7 +3,7 @@ Version:	67847
 Release:	1
 Summary:	TikZ libraries for filling with images and patterns
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzfill
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzfill
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzfill.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzfill.doc.r%{version}.tar.xz
